@@ -26,7 +26,7 @@ The project is built as a modern containerized stack:
 You only need Docker and a free Google Gemini API Key.
 
 ```bash
-git clone <your-repo-url> && cd saas_agents
+git clone https://github.com/Jergasus/saas_agents.git && cd saas_agents
 cp .env.example .env
 # Set your GEMINI_API_KEY in .env
 docker-compose up -d --build
