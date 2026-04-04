@@ -24,7 +24,7 @@ export class KnowledgeService {
     return this.http.delete<any>(`${this.apiUrl}/${id}`);
   }
 
-  uploadPdf(tenantId: string, file: File): Observable<any> {
+  uploadFile(tenantId: string, file: File): Observable<any> {
     const formData = new FormData();
     formData.append('tenantId', tenantId);
     formData.append('file', file);

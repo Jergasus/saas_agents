@@ -249,22 +249,26 @@ export class AdminComponent implements OnInit, OnDestroy {
   }
 
   private processUploadedFile(file: File) {
-    if (file.type !== 'application/pdf') {
-      alert('Please upload PDF files only.');
+    const allowedTypes = ['application/pdf', 'text/markdown'];
+    const allowedExtensions = ['.pdf', '.md'];
+    const ext = file.name.substring(file.name.lastIndexOf('.')).toLowerCase();
+
+    if (!allowedTypes.includes(file.type) && !allowedExtensions.includes(ext)) {
+      alert('Please upload PDF or Markdown (.md) files only.');
       return;
     }
 
     this.isLoadingKnowledge = true;
-    this.knowledgeService.uploadPdf(this.selectedTenant._id, file).subscribe({
+    this.knowledgeService.uploadFile(this.selectedTenant._id, file).subscribe({
       next: (res) => {
         this.isLoadingKnowledge = false;
         this.loadMemories();
         const chunksMsg = res.chunks ? ` in ${res.chunks} chunks` : '';
-        alert(`PDF processed successfully! Learned ${res.chars} characters${chunksMsg}.`);
+        alert(`File processed successfully! Learned ${res.chars} characters${chunksMsg}.`);
       },
       error: (err) => {
         console.error(err);
-        alert('Error processing PDF.');
+        alert('Error processing file.');
         this.isLoadingKnowledge = false;
       },
     });

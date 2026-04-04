@@ -64,17 +64,16 @@ export class KnowledgeController {
     // 1. EXTRAER TEXTO SEGÚN EL TIPO DE ARCHIVO
     try {
       if (file.mimetype === 'application/pdf') {
-        // Magia: Convertimos el PDF a texto puro
         const pdfData = await pdfParse(file.buffer);
-        // Limpiar espacios en blanco múltiples
         extractedText = pdfData.text.replace(/\s+/g, ' ').trim();
-      } 
-      // Aquí en el futuro puedes poner "else if" para Excel (xlsx) o Word (docx)
-      else {
-        throw new BadRequestException('Unsupported format. Please upload a PDF.');
+      } else if (file.mimetype === 'text/markdown' || file.originalname?.endsWith('.md')) {
+        extractedText = file.buffer.toString('utf-8').trim();
+      } else {
+        throw new BadRequestException('Unsupported format. Please upload a PDF or Markdown file.');
       }
 
-      console.log(`📄 PDF leído con éxito. Caracteres extraídos: ${extractedText.length}`);
+      const fileType = file.originalname?.endsWith('.md') ? 'markdown' : 'pdf';
+      console.log(`📄 ${fileType.toUpperCase()} leído con éxito. Caracteres extraídos: ${extractedText.length}`);
 
       // 2. GUARDAR EL TEXTO EN EL RAG (Procesamiento en Lotes / Batching)
       const chunks = this.chunkText(extractedText, 1000);
@@ -85,7 +84,7 @@ export class KnowledgeController {
         
         // Ejecutamos las 5 peticiones a la vez (en paralelo)
         await Promise.all(
-          batch.map(chunk => this.knowledgeService.ingestText(tenantId, chunk, 'pdf'))
+          batch.map(chunk => this.knowledgeService.ingestText(tenantId, chunk, fileType))
         );
         
         console.log(`Procesados ${Math.min(i + batchSize, chunks.length)} de ${chunks.length} fragmentos...`);
