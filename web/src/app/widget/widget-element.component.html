@@ -5,7 +5,7 @@
       <div class="chat-header" [style.backgroundColor]="agentData.primaryColor || '#2563EB'">
         <div class="header-left">
           <div class="avatar">
-            <span>🤖</span>
+            <span>🌸</span>
           </div>
           <div>
             <h3 class="header-title">{{ agentData.chatTitle || 'AI Assistant' }}</h3>
@@ -34,7 +34,7 @@
         @for (msg of messages; track $index) {
           <div class="message-row" [class.user]="msg.isUser">
             @if (!msg.isUser) {
-              <div class="bot-avatar">🤖</div>
+              <div class="bot-avatar">🌸</div>
             }
             <div class="message-bubble" [class.user-bubble]="msg.isUser" [class.bot-bubble]="!msg.isUser"
                  [style.backgroundColor]="msg.isUser ? (agentData.primaryColor || '#2563EB') : '#ffffff'">
@@ -48,7 +48,7 @@
         }
         @if (isLoading) {
           <div class="message-row">
-            <div class="bot-avatar">🤖</div>
+            <div class="bot-avatar">🌸</div>
             <div class="message-bubble bot-bubble typing">
               <span class="dot"></span>
               <span class="dot" style="animation-delay: 0.2s"></span>
