@@ -39,7 +39,7 @@ export const reverse1999Tools: AgentTool[] = [
         (c: any) => (c.name || '').toLowerCase() === name,
       );
       if (!character) {
-        return { error: `Character "${args.characterName}" not found.` };
+        return { result: `Character "${args.characterName}" was not found in the database. This character may not exist or the name may be spelled differently.` };
       }
       return character;
     },
@@ -79,7 +79,7 @@ export const reverse1999Tools: AgentTool[] = [
         });
       });
       if (matched.length === 0) {
-        return { error: `No teams found for "${args.characterName}".` };
+        return { result: `No meta teams found for "${args.characterName}". This character may not be part of any current meta team compositions.` };
       }
       return { teams: matched };
     },
@@ -112,7 +112,7 @@ export const reverse1999Tools: AgentTool[] = [
           ([key]) => key.toLowerCase() === name.toLowerCase(),
         )?.[1];
       if (!psychube) {
-        return { error: `Psychube "${args.psychubeName}" not found.` };
+        return { result: `Psychube "${args.psychubeName}" was not found in the database. The name may be spelled differently.` };
       }
       return { name, ...psychube };
     },

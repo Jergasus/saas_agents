@@ -6,6 +6,7 @@ import { reverse1999Tools } from './implementations/reverse1999.tools';
 @Injectable()
 export class ToolRegistryService {
   private tools = new Map<string, AgentTool>();
+  private toolsByFunctionName = new Map<string, AgentTool>();
 
   constructor() {
     reverse1999Tools.forEach(tool => this.registerTool(tool));
@@ -13,10 +14,11 @@ export class ToolRegistryService {
 
   registerTool(tool: AgentTool) {
     this.tools.set(tool.id, tool);
+    this.toolsByFunctionName.set(tool.declaration.name, tool);
   }
 
   getTool(id: string): AgentTool | undefined {
-    return this.tools.get(id);
+    return this.tools.get(id) || this.toolsByFunctionName.get(id);
   }
 
   getDeclarations(toolIds: string[]): FunctionDeclaration[] {

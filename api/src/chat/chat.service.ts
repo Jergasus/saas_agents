@@ -47,9 +47,15 @@ export class ChatService {
     // Prepare tools
     const activeTools = this.toolRegistry.getDeclarations(tenant.allowedTools || []);
 
+    let systemInstruction = tenant.systemPrompt || '';
+    if (activeTools.length > 0) {
+      const toolNames = activeTools.map(t => t.name).join(', ');
+      systemInstruction += `\n\nIMPORTANT: You have access to these tools: ${toolNames}. ALWAYS use them to answer questions about game data instead of relying on your own knowledge. If the user's question could be answered by multiple tools, call ALL relevant tools. For example, if asked for a full build, use getCharacterInfo AND findTeamsForCharacter AND getPsychubeDetails.`;
+    }
+
     const model = this.genAI.getGenerativeModel({
       model: 'gemini-2.5-flash',
-      systemInstruction: tenant.systemPrompt,
+      systemInstruction,
       tools: activeTools.length > 0 ? [{ functionDeclarations: activeTools }] : undefined,
     });
 
