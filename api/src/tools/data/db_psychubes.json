@@ -1,0 +1,430 @@
+{
+  "A Free Heart": {
+    "img": "https://www.prydwen.gg/static/145ef60e0aaa13773955ba6d925c084f/f5a08/4103.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is attacked and is below 50% HP, DMG Taken - 10% . <br><br><strong>Lv. 5:</strong><br> When the carrier is attacked and is below 50% HP, DMG Taken - 20%"
+  },
+  "A New Leaf": {
+    "img": "https://www.prydwen.gg/static/92248c18847069ff647d8874eb0f4504/f5a08/Equipment_icon-1423.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is a [Plant] character, Critical DEF +8%. When the carrier is attacked while below 40% HP, Critical Resist Rate + 15% . <br><br><strong>Lv. 5:</strong><br> When the carrier is a [Plant] character, Critical DEF +8%. When the carrier is attacked while below 60% HP, Critical Resist Rate + 25% ."
+  },
+  "A Satisfied Eater": {
+    "img": "https://www.prydwen.gg/static/d036ab277ac3b27825246531ecd0a2de/5fbee/Equipment_icon-1413.png",
+    "desc": "<strong>Lv. 1:</strong><br> Whenever the Carrier attacks at below 80% HP, Penetration Rate + 8% . <br><br><strong>Lv. 5:</strong><br> Whenever the Carrier attacks at below 80% HP, Penetration Rate + 16% ."
+  },
+  "A Tingle of a Thought": {
+    "img": "https://www.prydwen.gg/static/679179acacbf1a9307204bd0647fbc11/f5a08/Equipment_icon-1550.webp",
+    "desc": "<strong>Lv. 1:</strong><br> If the carrier is an [Intelligence] character, after casting a Channel incantation, ATK +1% , up to 3 stacks. At the end of the round, for every 1 time the team transfers [Dynamo] , the carrier gains Critical DMG +1.2% , up to 16 stacks. <br><br><strong>Lv. 5:</strong><br> If the carrier is an [Intelligence] character, after casting a Channel incantation, ATK +3% , up to 3 stacks. At the end of the round, for every 1 time the team transfers [Dynamo] , the carrier gains Critical DMG +2% , up to 16 stacks."
+  },
+  "Across the Acheron 3.3": {
+    "img": "https://www.prydwen.gg/static/e1c196ecd8a3bdf507be66064ccaa6af/f5a08/igor_psy.webp",
+    "desc": "<strong>Lv. 1:</strong><br> Upon entering combat, for each [Beast] ally present (including the wearer), the wearer gains +4% Ultimate Might (stacks up to 4 times). At the start of the round, for each type of [Bullet] the wearer has, they gain +2% DMG Dealt (stacks up to 6 times) for 1 round. <br><br><strong>Lv. 5:</strong><br> Upon entering combat, for each [Beast] ally present (including the wearer), the wearer gains +8% Ultimate Might (stacks up to 4 times). At the start of the round, for each type of [Bullet] the wearer has, they gain +4% DMG Dealt (stacks up to 6 times) for 1 round."
+  },
+  "Addio Coda": {
+    "img": "https://www.prydwen.gg/static/fc50badcb1669a9582c035114fa5a067/f5a08/Barcarola_PsychubeIcon.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When an ally consumes Eureka, accumulate points of [Inspiration] . Whenever an ally consumes 1 Eureka, all allies gain DMG Dealt + 0.3% , stacking up to 20 times; if the carrier is of the [Star] afflatus, after taking an action, [Impromptu Incantation] gains attack instance +1 for the round, this effect can trigger up to 1 time per round. <br><br><strong>Lv. 5:</strong><br> When an ally consumes Eureka, accumulate points of [Inspiration] . Whenever an ally consumes 1 Eureka, all allies gain DMG Dealt + 0.6% , stacking up to 20 times; if the carrier is of the [Star] afflatus, after taking an action, [Impromptu Incantation] gains attack instance +1 for the round, this effect can trigger up to 2 time per round."
+  },
+  "An Afternoon Nap": {
+    "img": "https://www.prydwen.gg/static/fff4f0bdecff191d7f087022a0df2f59/f5a08/1407.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrierâs 1-target attack scores a critical hit, the carrier gains Critical DMG + 3% (stacks up to 4 times). <br><br><strong>Lv. 5:</strong><br> When the carrierâs 1-target attack scores a critical hit, the carrier gains Critical DMG + 3% (stacks up to 8 times)."
+  },
+  "An Epic's End": {
+    "img": "https://www.prydwen.gg/static/50cbfb37153533b8fbd61c832c4a892f/f5a08/1552.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When attacking, if the carrier is an [Assassination] character, for every 100 points of Critical Technique the carrier has more than the target, gains Final DMG Dealt +1% for this attack. When any ally triggers an [Assassination] , if the carrier owns [Force Field] , all allies gain DMG Dealt +1% , up to 6 stacks. <br><br><strong>Lv. 5:</strong><br> When attacking, if the carrier is an [Assassination] character, for every 100 points of Critical Technique the carrier has more than the target, gains Final DMG Dealt +2% for this attack. When any ally triggers an [Assassination] , if the carrier owns [Force Field] , all allies gain DMG Dealt +2% , up to 6 stacks."
+  },
+  "And the Maid Says": {
+    "img": "https://www.prydwen.gg/static/c3f7e466f4c31ed40b88d99fe5d37ac3/f5a08/Equipment_icon-1533.webp",
+    "desc": "<strong>Lv. 1:</strong><br> The [Array] deployed by the carrier grants [Poison] DMG Dealt +4% to all allies and an additional [Poison] DMG Dealt +4% to the carrier. These effects are removed after the Array ends or is replaced. <br><br><strong>Lv. 5:</strong><br> The [Array] deployed by the carrier grants [Poison] DMG Dealt +8% to all allies and an additional [Poison] DMG Dealt +8% to the carrier. These effects are removed after the Array ends or is replaced."
+  },
+  "Another Story": {
+    "img": "https://www.prydwen.gg/static/b297b9b4a130dfd52bbca2e34130727c/f5a08/43_small.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier casts a rank 2/3 incantation, DMG Dealt + 1% / 2% , stacking up to + 8% . When the carrier consumes 2 or more Eureka within a round, gain Incantation Might + 10% until the end of the round. <br><br><strong>Lv. 5:</strong><br> After the carrier casts a rank 2/3 incantation, DMG Dealt + 3% / 6% , stacking up to + 24% . When the carrier consumes 2 or more Eureka within a round, gain Incantation Might + 18% until the end of the round."
+  },
+  "Approaching Rain": {
+    "img": "https://www.prydwen.gg/static/dd454d7e302cb63a4215903ceddb4fe1/f5a08/49_icon.webp",
+    "desc": "<strong>Lv. 1:</strong><br> Right a fter the carrier uses a 1-target counter Ultimate, they get DMG Heal + 10% for 2 rounds; the carrier's Ripostes deal Genesis DMG + 30% . <br><br><strong>Lv. 5:</strong><br> Right a fter the carrier uses a 1-target counter Ultimate, they get DMG Heal + 20% for 2 rounds; the carrier's Ripostes deal Genesis DMG + 60% ."
+  },
+  "As the Bell Tolls": {
+    "img": "https://www.prydwen.gg/static/3bdc90ee4d9c14da5ed3cbda4f7d43a0/f5a08/1551.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When attacking, if the carrier is an [Assassination] character, for every 100 points of Critical Technique the carrier has more than the target, gains Final DMG Dealt + 1% for this attack. When triggering an [Assassination] , if the attack aims at 1 target, gains Critical DMG + 6% , up to 3 stack(s). <br><br><strong>Lv. 5:</strong><br> When attacking, if the carrier is an [Assassination] character, for every 100 points of Critical Technique the carrier has more than the target, gains Final DMG Dealt + 2% for this attack. When triggering an [Assassination] , if the attack aims at 1 target, gains Critical DMG + 12% , up to 3 stack(s)."
+  },
+  "Aurora After Winter": {
+    "img": "https://www.prydwen.gg/static/d8c37c14292ebe7f5b107f875b5858f3/5fbee/Kiperina_Psy.png",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier casts a Buff incantation, gain ATK + 0.4% , stacks up to 10 times. If the carrier is of the [Star] afflatus, for every 1 Eureka consumed by allies, grant Critical DMG + 0.4% to all allies, stacks up to 30 times. <br><br><strong>Lv. 5:</strong><br> When the carrier casts a Buff incantation, gain ATK + 0.8% , stacks up to 10 times. If the carrier is of the [Star] afflatus, for every 1 Eureka consumed by allies, grant Critical DMG + 0.8% to all allies, stacks up to 30 times."
+  },
+  "Balance, Please": {
+    "img": "https://www.prydwen.gg/static/453a8b434d8fbd2ba641ea4ee5ab819f/5fbee/Equipment_icon-1514.png",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks, if they do not have an Afflatus advantage over the enemy, DMG Dealt + 6% . If the Carrier's Afflatus is of the Primal Afflatus, this effect is increased to 12% . <br><br><strong>Lv. 5:</strong><br> When the carrier attacks, if they do not have an Afflatus advantage over the enemy, DMG Dealt +12% . If the carrier's Afflatus is of the Primal Afflatus, this effect is increased to 24% ."
+  },
+  "Belt It Out": {
+    "img": "https://www.prydwen.gg/static/05a85934eec725a1fdc673f66e73afa6/f5a08/Regulus_PsychubeIcon.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When entering battle, for each character present with the [Star] afflatus, including the carrier, all allied [Star] afflatus characters gain DMG Dealt + 2% , stacking up to 4 times. <br><br><strong>Lv. 5:</strong><br> When entering battle, for each character present with the [Star] afflatus, including the carrier, all allied [Star] afflatus characters gain DMG Dealt + 4% , stacking up to 4 times."
+  },
+  "Beyond the Gears": {
+    "img": "https://www.prydwen.gg/static/c6e76998b4a7731ff2ecfec451bcb7d0/f5a08/Beyond_the_Gears_mini.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks a target that's NOT in a [Pos Status] or [Stats Up] status, Critical Rate +6% , Critical DMG +6% . <br><br><strong>Lv. 5:</strong><br> When the carrier attacks a target that's NOT in a [Pos Status] or [Stats Up] status, Critical Rate +18% , Critical DMG +18% ."
+  },
+  "Beyond Wonderland": {
+    "img": "https://www.prydwen.gg/static/f5de0e4c899c1ad52a330d5a2931366f/f5a08/1511.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier uses a debuff incantation, the carrier's healing rate increases by 3%. This effect can stack up to 4 times. Increases carrier's Critical Rate by 7% . <br><br><strong>Lv. 5:</strong><br> After the carrier uses a debuff incantation, the carrier's healing rate increases by 3%. This effect can stack up to 4 times. Increases carrier's Critical Rate by 21% ."
+  },
+  "Bitter March of the Living": {
+    "img": "https://www.prydwen.gg/static/a0c3a32f05328a7a368cd084fd62ba82/f5a08/Corvus_Psychube.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks, if under [Pulsing Field Lv.3] , Ultimate Might + 12% . After the carrier casts a 1-target incantation, DMG Dealt + 1.4% (stacks up to 6 times, removed after casting a mass incantation). <br><br><strong>Lv. 5:</strong><br> When the carrier attacks, if under [Pulsing Field Lv.3] , Ultimate Might + 24% . After the carrier casts a 1-target incantation, DMG Dealt + 3% (stacks up to 6 times, removed after casting a mass incantation)."
+  },
+  "Blasphemer of Night": {
+    "img": "https://www.prydwen.gg/static/9b4345588a7077465c4711fea9f705a5/f5a08/1504.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks, if the target has 2 or more [Neg Status], DMG Dealt + 12% . <br><br><strong>Lv. 5:</strong><br> When the carrier attacks, if the target has 2 or more [Neg Status], DMG Dealt + 24% ."
+  },
+  "Bow": {
+    "img": "https://www.prydwen.gg/static/aa824a76368a32e87622e2fd7745ce04/f5a08/1307.webp",
+    "desc": "This Psychube doesn't grant any special effects to the wearer."
+  },
+  "Brave New World": {
+    "img": "https://www.prydwen.gg/static/ee3b94463890c0e4b42c946f8668bfcd/f5a08/1501.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier casts an Ultimate, Incantation Might of the next incantation +20%. <br><br><strong>Lv. 5:</strong><br> After the carrier casts an Ultimate, Incantation Might of the next incantation +40%."
+  },
+  "Buds Yet to Bloom": {
+    "img": "https://www.prydwen.gg/static/305d96ec0ffb631f3bd0718c1c084c57/f5a08/Equipment_icon-1554.webp",
+    "desc": "<strong>Lv. 1:</strong><br> If the carrier is a [Spirit] character and in [Channel] status when attacking, DMG Dealt + 8% . At the end of the round if the carrier transfers [Dynamo] into the [Pulsing Field] at least 1 time for the round, all allies gain Critical DMG + 4% , up to 3 stacks. <br><br><strong>Lv. 5:</strong><br> If the carrier is a [Spirit] character and in [Channel] status when attacking, DMG Dealt + 16% . At the end of the round if the carrier transfers [Dynamo] into the [Pulsing Field] at least 1 time for the round, all allies gain Critical DMG + 8% , up to 3 stacks."
+  },
+  "Cheering": {
+    "img": "https://www.prydwen.gg/static/ef026bbfbf05b31d460dec1cd0ce871f/f5a08/1204.webp",
+    "desc": "This Psychube doesn't grant any special effects to the wearer."
+  },
+  "Covet": {
+    "img": "https://www.prydwen.gg/static/abf33dd5064e65e7ff9b6c152678aaae/f5a08/1308.webp",
+    "desc": "This Psychube doesn't grant any special effects to the wearer."
+  },
+  "Cracks in the Shell": {
+    "img": "https://www.prydwen.gg/static/4e8d5d70d208c5dcc0f43ea030dee804/f5a08/Fatutu_PsychubeIcon.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier performs an extra action, gain Healing Done + 4% , stacks up to 3 times. After the carrier is attacked or shares damage, all allies gain Critical DMG + 1.2% for 3 rounds, stacks up to 12 times. <br><br><strong>Lv. 5:</strong><br> After the carrier performs an extra action, gain Healing Done + 8% , stacks up to 3 times. After the carrier is attacked or shares damage, all allies gain Critical DMG + 2.4% for 3 rounds, stacks up to 12 times."
+  },
+  "Dawn is Coming": {
+    "img": "https://www.prydwen.gg/static/100f6c808c4029e34ee80c1e966537e5/f5a08/psy_45.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier casts a 1-target buff-type incantation, recover (own ATK x 24% ) HP for the ally with the lowest HP percentage (triggers only 1 time per round). <br><br><strong>Lv. 5:</strong><br> After the carrier casts a 1-target buff-type incantation, recover (own ATK x 48% ) HP for the ally with the lowest HP percentage (triggers only 1 time per round)."
+  },
+  "Decode": {
+    "img": "https://www.prydwen.gg/static/297f0f344057a6c45ac6f8692e3c4700/f5a08/1405.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is attacked by an Ultimate, DMG Taken - 10% . <br><br><strong>Lv. 5:</strong><br> When the carrier is attacked by an Ultimate, DMG Taken - 20% ."
+  },
+  "Drown Out The Hustle 3.5 NEW!": {
+    "img": "https://www.prydwen.gg/static/f2bbd0c6c5f36788d96bc1b4163dc347/f5a08/Chube_RamonaSig.webp",
+    "desc": "<strong>Lv. 1:</strong><br> If the carrierâs Afflatus is [Plant], after a Follow-Up Attack, they gain Genesis DMG +2% (stacks up to 3 times). Whenever an ally takes action, if the Incantation is changed in any way, all enemies gain [Poison] DMG Taken +1% (stacks up to 3 times) for 3 rounds. <br><br><strong>Lv. 5:</strong><br> If the carrierâs Afflatus is [Plant], after a Follow-Up Attack, they gain Genesis DMG +4% (stacks up to 3 times). Whenever an ally takes action, if the Incantation is changed in any way, all enemies gain [Poison] DMG Taken +3% (stacks up to 3 times) for 3 rounds."
+  },
+  "Dust on the Roadside": {
+    "img": "https://www.prydwen.gg/static/4ccbcdf648cf3ee2b58bd295329cff1e/f5a08/Equipment_icon-1441.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks, for every 1 instance of [Poison] the target has, Penetration Rate +2% . If the carrier is a [Plant] character, Critical DMG +12% . <br><br><strong>Lv. 5:</strong><br> When the carrier attacks, for every 1 instance of [Poison] the target has, Penetration Rate +4% . If the carrier is a [Plant] character, Critical DMG +24% ."
+  },
+  "Embrace the Past": {
+    "img": "https://www.prydwen.gg/static/7e32a4dd554ad146eb302e5775a5c186/f5a08/Equipment_icon-1548.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When entering battle, if the carrier is a [Spirit] character, Max HP +5% . When the carrier takes DMG, Critical Rate + 1% at the end of the round, up to 16 stacks. When the carrier attacks, if below 80% HP and at no less than 50 Max Bloodtithe points, Critical DMG +24% . <br><br><strong>Lv. 5:</strong><br> When entering battle, if the carrier is a [Spirit] character, Max HP +15% . When the carrier takes DMG, Critical Rate + 2% at the end of the round, up to 16 stacks. When the carrier attacks, if below 80% HP and at no less than 50 Max Bloodtithe points, Critical DMG +48% ."
+  },
+  "Faded Epitaphs": {
+    "img": "https://www.prydwen.gg/static/eb2d0873b4ad7fba4ec135aa816ef645/f5a08/Necro_Psychube.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When entering battle, for each character present with the [Mineral] afflatus, including the carrier, all allied [Mineral] afflatus characters gain DMG Dealt +2% . <br><br><strong>Lv. 5:</strong><br> When entering battle, for each character present with the [Mineral] afflatus, including the carrier, all allied [Mineral] afflatus characters gain DMG Dealt +4% ."
+  },
+  "Falling for a Sweet Phenomenon": {
+    "img": "https://www.prydwen.gg/static/cdcc2bc5a524638f33c74107272b64b3/5fbee/Psy_Falling_for_a_Sweet_Phenomenon_icon.png",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is a [Star] character, Critical DMG + 10% . After taking an extra action, Genesis DMG Dealt + 6% , stacks up to 5 times. <br><br><strong>Lv. 5:</strong><br> When the carrier is a [Star] character, Critical DMG + 20% . After taking an extra action, Genesis DMG Dealt + 12% , stacks up to 5 times."
+  },
+  "Family Mentor": {
+    "img": "https://www.prydwen.gg/static/fd600ed98105bcfd3ea011878665dcfa/f5a08/Equipment_icon-1549.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After launching a Riposte, the carrier gains Ultimate Might + 4% , up to 3 stacks. If the carrier is a [Beast] character, for every 1 Moxie the team consumes, all allies gain Critical DMG + 0.4% , up to 30 stacks. <br><br><strong>Lv. 5:</strong><br> After launching a Riposte, the carrier gains Ultimate Might + 8% , up to 3 stacks. If the carrier is a [Beast] character, for every 1 Moxie the team consumes, all allies gain Critical DMG + 0.8% , up to 30 stacks."
+  },
+  "Fatuous": {
+    "img": "https://www.prydwen.gg/static/e8056258da51aa72a97cd1e615af6fc8/f5a08/1206.webp",
+    "desc": "This Psychube doesn't grant any special effects to the wearer."
+  },
+  "Flourishing": {
+    "img": "https://www.prydwen.gg/static/1eaed2a2d5e2dc779b23f8d374e0ef23/f5a08/1202.webp",
+    "desc": "This Psychube doesn't grant any special effects to the wearer."
+  },
+  "For Rehabilitation": {
+    "img": "https://www.prydwen.gg/static/e7fb123b86c78eb301d492fd5dc8969e/f5a08/46_icon.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is a [Star] character, Incantation Might +5%. Within the same round after they cast an ultimate, each of their 1-target attack-type incantations grants DMG Dealt + 4% for the rest of the battle, stacking up to 3 times. <br><br><strong>Lv. 5:</strong><br> When the carrier is a [Star] character, Incantation Might +5%. Within the same round after they cast an ultimate, each of their 1-target attack-type incantations grants DMG Dealt + 8% for the rest of the battle, stacking up to 3 times."
+  },
+  "From The Depths": {
+    "img": "https://www.prydwen.gg/static/27e3e7f1ca89e22b934ad4511bd3c24c/f5a08/49_small.webp",
+    "desc": "<strong>Lv. 1:</strong><br> If the carrier is of the [Mineral] afflatus, and whenever allies lose HP three or more times as the carrier takes a single action, the carrier gains the [Echoes of Life] status afterward to until the end of battle (triggers only 1 time per battle). If the carrier is of the [Mineral] afflatus, and whenever any allied character loses HP as an ally takes an action, the carrier gains Incantation Might + 0.9% , stackable up to 10 times. [Echoes of Life] : Pos Status . When taking lethal damage, recover (own Max HP x 33% ) HP (removed after trigger, undispellable). <br><br><strong>Lv. 5:</strong><br> If the carrier is of the [Mineral] afflatus, and whenever allies lose HP three or more times as the carrier takes a single action, the carrier gains the [Echoes of Life] status afterward to until the end of battle (triggers only 1 time per battle). If the carrier is of the [Mineral] afflatus, and whenever any allied character loses HP as an ally takes an action, the carrier gains Incantation Might + 2.1% , stackable up to 10 times. [Echoes of Life] : Pos Status . When taking lethal damage, recover (own Max HP x 33% ) HP (removed after trigger, undispellable)."
+  },
+  "Going Along Alone": {
+    "img": "https://www.prydwen.gg/static/c7bb4fa8113148a923ede47c11c1bc9e/f5a08/Going_Along_Alone_mini.webp",
+    "desc": "<strong>Lv. 1:</strong><br> If the carrier's afflatus is [Plant] , Critical Rate +6%. When the carrier uses a 1-target ultimate to attack, Critical DMG + 14% . <br><br><strong>Lv. 5:</strong><br> If the carrier's afflatus is [Plant] , Critical Rate +6%. When the carrier uses a 1-target ultimate to attack, Critical DMG + 30% ."
+  },
+  "Her Bright Future": {
+    "img": "https://www.prydwen.gg/static/36de1a4184c9c9a4964cb954fa52db3c/f5a08/1411.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier casts an ultimate, if the carrier is in a [Stats Up] status, Ultimate Might + 10%. <br><br><strong>Lv. 5:</strong><br> When the carrier casts an ultimate, if the carrier is in a [Stats Up] status, Ultimate Might + 20%."
+  },
+  "Her Mournful Face": {
+    "img": "https://www.prydwen.gg/static/916cced02dc41cf526c53ae3701033cd/f5a08/Equipment_icon-1430.webp",
+    "desc": "<strong>Lv. 1:</strong><br> The carrier gains Healing Done +8%. At the start of the round, if in the [Cure] status, gain additional DMG Taken Reduction +6%. If the carrier is of the [Plant] Afflatus, the [Poison] effects inflicted by self gain DMG Dealt + 16% . <br><br><strong>Lv. 5:</strong><br> The carrier gains Healing Done +8%. At the start of the round, if in the [Cure] status, gain additional DMG Taken Reduction +6%. If the carrier is of the [Plant] Afflatus, the [Poison] effects inflicted by self gain DMG Dealt + 40% ."
+  },
+  "Her Second Life": {
+    "img": "https://www.prydwen.gg/static/bbda90aa8d9c1e7c05ca9f93a94e710b/f5a08/1503.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier casts the mass Ultimate, HP+(the carrierâs ATK x 32% ) for all allies. <br><br><strong>Lv. 5:</strong><br> After the carrier casts the mass Ultimate, HP+(the carrierâs ATK x 64% ) for all allies."
+  },
+  "Her Willful Leap 3.2": {
+    "img": "https://www.prydwen.gg/static/fb0e509a6acef26488019fec2ee68f05/f5a08/Her_Willful_Leap.webp",
+    "desc": "<strong>Lv. 1:</strong><br> Not available. Will be updated soon. <br><br><strong>Lv. 5:</strong><br> After casting a Channel incantation, if the carrier is a [Beast] character, all allies gain DMG Bonus +16% for 1 round. When the carrier attacks, if performing an Extra Action, Ultimate Might +8% for 1 round, up to 3 stacks."
+  },
+  "His Bounden Duty": {
+    "img": "https://www.prydwen.gg/static/951d3b76b384b230f38521eb2204fcb5/f5a08/1510.webp",
+    "desc": "<strong>Lv. 1:</strong><br> For each enemy target defeated by the carrier, HP +(the carrierâs ATK x 60% ). <br><br><strong>Lv. 5:</strong><br> For each enemy target defeated by the carrier, HP +(the carrierâs ATK x 120% )."
+  },
+  "His Tail": {
+    "img": "https://www.prydwen.gg/static/75d23826e5b55b6ec21c7e68f97e9dde/f5a08/His_Tail_mini.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is of the Primal Afflatus, Penetration Rate +5%. When the carrier attacks a target that is below 75% HP, Penetration Rate + 6% . <br><br><strong>Lv. 5:</strong><br> When the carrier is of the Primal Afflatus, Penetration Rate +5%. When the carrier attacks a target that is below 75% HP, Penetration Rate + 14% ."
+  },
+  "Homecoming Lament": {
+    "img": "https://www.prydwen.gg/static/cb91801087404ff085a2c70cb113eb5f/f5a08/Equipment_icon-1553.webp",
+    "desc": "<strong>Lv. 1:</strong><br> If the carrier is a [Mineral] character and the team is at 50 points of Max [Bloodtithe] or above when they attack, DMG Dealt + 8% . Each time the carrier takes damage, Critical DMG + 2% at the end of the round, up to 9 stacks. <br><br><strong>Lv. 5:</strong><br> If the carrier is a [Mineral] character and the team is at 50 points of Max [Bloodtithe] or above when they attack, DMG Dealt + 16% . Each time the carrier takes damage, Critical DMG + 4% at the end of the round, up to 9 stacks."
+  },
+  "Hopscotch": {
+    "img": "https://www.prydwen.gg/static/8db4a05e1ef920b29317d1c7a372172d/f5a08/1502.webp",
+    "desc": "<strong>Lv. 1:</strong><br> For each enemy target defeated by the carrier, Ultimate Might + 4% for the carrier. Stacks up to 4 times. <br><br><strong>Lv. 5:</strong><br> For each enemy target defeated by the carrier, Ultimate Might + 8% for the carrier. Stacks up to 4 times."
+  },
+  "In the Shadow": {
+    "img": "https://www.prydwen.gg/static/81a060a8b5de05b68bf2951524df1883/f5a08/In_the_Shadow_mini.webp",
+    "desc": "<strong>Lv. 1:</strong><br> If the carrier's afflatus is [Mineral] , they get DMG Taken -5%. After the carrier uses a buff incantation, they get ATK + 0.5% . If it was a 1-target buff incantation, the ATK boost is doubled. This effect can stack up to 10%. Upon reaching the limit, the carrier gains an additional DMG Taken Reduction + 3% . <br><br><strong>Lv. 5:</strong><br> If the carrier's afflatus is [Mineral] , they get DMG Taken -5%. After the carrier uses a buff incantation, they get ATK + 2% . If it was a 1-target buff incantation, the ATK boost is doubled. This effect can stack up to 10%. Upon reaching the limit, the carrier gains an additional DMG Taken Reduction + 7% ."
+  },
+  "In Their Figures 3.2": {
+    "img": "https://www.prydwen.gg/static/887508dee2b6f9d534c11395f3b332fc/f5a08/In_Their_Figures.webp",
+    "desc": "<strong>Lv. 1:</strong><br> Each Eureka consumed by allies grants Incantation Might + 0.2% to all allies, stacking up to 30 times. <br><br><strong>Lv. 5:</strong><br> Each Eureka consumed by allies grants Incantation Might + 0.6% to all allies, stacking up to 30 times."
+  },
+  "Into the Gentle Current": {
+    "img": "https://www.prydwen.gg/static/68ac6aab0327bc21c18f90742d0bde64/f5a08/1555.webp",
+    "desc": "<strong>Lv. 1:</strong><br> At the start of the round, if the carrier is a [Mineral] character, gains Ultimate Might +4% , up to 3 stacks. When casting Ultimate, if the current [Bloodtithe] limit is at least 50, gains Critical DMG +16% . <br><br><strong>Lv. 5:</strong><br> At the start of the round, if the carrier is a [Mineral] character, gains Ultimate Might +8% , up to 3 stacks. When casting Ultimate, if the current [Bloodtithe] limit is at least 50, gains Critical DMG +32% ."
+  },
+  "Knock on the Door": {
+    "img": "https://www.prydwen.gg/static/56390bf282bdfb7361cf5835511355ad/f5a08/42_small.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks a target enemy that's in the [Burn] status, DMG Dealt +6%. When the carrier's extra action is a mass attack, Incantation Might +4% . <br><br><strong>Lv. 5:</strong><br> When the carrier attacks a target enemy that's in the [Burn] status, DMG Dealt +6%. When the carrier's extra action is a mass attack, Incantation Might +28% ."
+  },
+  "Laughter and Laughter": {
+    "img": "https://www.prydwen.gg/static/89369caacde7a0a48ae4ac682a2e4675/f5a08/4104.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When a round begins, Healing Done +3% for the carrier. Stacks up to 4 times. <br><br><strong>Lv. 5:</strong><br> When a round begins, Healing Done +3% for the carrier. Stacks up to 8 times."
+  },
+  "Let's Set Sail": {
+    "img": "https://www.prydwen.gg/static/d286b285f1044c9f57010c7a9dd28ba0/5fbee/Psychube_Lets_Set_Sail_small.png",
+    "desc": "<strong>Lv. 1:</strong><br> When the Carrier attacks targets with [Stats Down] , Critical DMG + 14% . <br><br><strong>Lv. 5:</strong><br> When the Carrier attacks targets with [Stats Down] , Critical DMG + 28% ."
+  },
+  "Long Night Talk": {
+    "img": "https://www.prydwen.gg/static/d4bbb385ca9f132bfec30a8d312bbabd/5fbee/Psychube_Long_Night_Talk_small.png",
+    "desc": "<strong>Lv. 1:</strong><br> When the Carrier has 2 or more [Pos Status] buffs, DMG Dealt +8% when attacking.\nWhen the Carrier uses a Buff Incantation, gain ATK + 2% , stacks up to 2 times. <br><br><strong>Lv. 5:</strong><br> When the Carrier has 2 or more [Pos Status] buffs, DMG Dealt +8% when attacking.\nWhen the Carrier uses a Buff Incantation, gain ATK + 2.5% , stacks up to 5 times."
+  },
+  "Loss": {
+    "img": "https://www.prydwen.gg/static/c701609614905624087ea0fff846a79d/f5a08/1203.webp",
+    "desc": "This Psychube doesn't grant any special effects to the wearer."
+  },
+  "Luck Be A Lady 3.5 NEW!": {
+    "img": "https://www.prydwen.gg/static/47f10f32dccea54390fb036bd3f23809/f5a08/Chube_CentAnec.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks, if the Incantation is at rank 1/2/3 , increase Ultimate Might byÂ +8% / 12% / 18%. <br><br><strong>Lv. 5:</strong><br> When the carrier attacks, if the Incantation is at rank 1/2/3 , increase Ultimate Might byÂ +16% / 24% / 36%."
+  },
+  "Luxurious Leisure": {
+    "img": "https://www.prydwen.gg/static/a3f81f3de546dfff3506d8994a3feb81/f5a08/1509.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After the Carrier casts a single-target Ultimate, damage dealt increases by 5% . This effect is stackable up to 3 times. <br><br><strong>Lv. 5:</strong><br> After the Carrier casts a single-target Ultimate, damage dealt increases by 9% . This effect is stackable up to 3 times."
+  },
+  "Meek": {
+    "img": "https://www.prydwen.gg/static/039738254145dd7d89db61208207788c/f5a08/1310.webp",
+    "desc": "This Psychube doesn't grant any special effects to the wearer."
+  },
+  "Melodies Old and New": {
+    "img": "https://www.prydwen.gg/static/97c3da7d45efa60d97d37e14317985dc/5fbee/Fatutu_Psy.png",
+    "desc": "<strong>Lv. 1:</strong><br> When entering battle, gain Healing Done + 12% . A t the start of the round, all allies gain DMG Dealt + 1% , stacks up to 3 times. <br><br><strong>Lv. 5:</strong><br> When entering battle, gain Healing Done + 16% . A t the start of the round, all allies gain DMG Dealt + 3% , stacks up to 3 times."
+  },
+  "Mental Cage": {
+    "img": "https://www.prydwen.gg/static/a5848a245faaeedea391ce16c7f72336/f5a08/Equipment_icon-1545.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When allies have casted more than 4 incantations in a single round, each additional cast grants DMG Dealt + 3% to all allies for 1 round, stacks up to 3 times; If the carrier is of the [Intelligence] afflatus, each Eureka consumed by allies grants Incantation Might + 0.2% to all allies, stacks up to 30 times; when entering battle, gain Eureka +2 for self. <br><br><strong>Lv. 5:</strong><br> When allies have casted more than 4 incantations in a single round, each additional cast grants DMG Dealt + 6% to all allies for 1 round, stacks up to 3 times; If the carrier is of the [Intelligence] afflatus, each Eureka consumed by allies grants Incantation Might + 0.4% to all allies, stacks up to 30 times; when entering battle, gain Eureka +2 for self."
+  },
+  "Navigating": {
+    "img": "https://www.prydwen.gg/static/c742256c9e7cb604ea27941e1c56ebb0/f5a08/1306.webp",
+    "desc": "This Psychube doesn't grant any special effects to the wearer."
+  },
+  "Never-Ending Q&A": {
+    "img": "https://www.prydwen.gg/static/baa8f2a68c3c1c3dd77cd5ecd2054601/5fbee/Hiss_Psy.png",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier casts a 1-target ultimate, gain Ultimate Might + 3% , stacks up to 4 times. After the carrier casts a mass ultimate, gain Critical DMG + 6% , stacks up to 3 times. <br><br><strong>Lv. 5:</strong><br> After the carrier casts a 1-target ultimate, gain Ultimate Might + 6% , stacks up to 4 times. After the carrier casts a mass ultimate, gain Critical DMG + 12% , stacks up to 3 times."
+  },
+  "Night After Night": {
+    "img": "https://www.prydwen.gg/static/2db8ff074acb3ebdf59e81042ba09565/f5a08/Night_After_Night_mini.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is below 80% current HP, gain DMG Dealt +6%. When the carrier is not afflicted with [Stats Down] , gain Incantation Might + 8% . <br><br><strong>Lv. 5:</strong><br> When the carrier is below 80% current HP, gain DMG Dealt +6%. When the carrier is not afflicted with [Stats Down] , gain Incantation Might + 20% ."
+  },
+  "Numb": {
+    "img": "https://www.prydwen.gg/static/5c626e1001691dc162cab2483a3c9409/f5a08/1205.webp",
+    "desc": "This Psychube doesn't grant any special effects to the wearer."
+  },
+  "Off the Scene": {
+    "img": "https://www.prydwen.gg/static/e549c475f57a6a6924286e54e1110bea/5fbee/Equipment_icon-1439.png",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier casts a buff-type incantation, all allies gain DMG Dealt + 1% , stacks up to 5 times. If the carrier is of the [Mineral] afflatus, gain Reality DEF + 18% . <br><br><strong>Lv. 5:</strong><br> After the carrier casts a buff-type incantation, all allies gain DMG Dealt + 2% , stacks up to 5 times. If the carrier is of the [Mineral] afflatus, gain Reality DEF + 36% ."
+  },
+  "Offbeat Strides": {
+    "img": "https://www.prydwen.gg/static/ada8c37567151b2273470d5c1babf329/f5a08/Willow_Psychube.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When entering battle, gain 1 Moxie. For each point of Moxie the carrier consumes, gain Genesis DMG Dealt + 0.4% and DMG Taken - 0.4% , stacking up to 25 times. At the end of the round, if the carrier is in a channel status, the carrier gains Poison DMG Dealt + 2% , stacking up to 5 times, this effect lasts 3 rounds. <br><br><strong>Lv. 5:</strong><br> When entering battle, gain 1 Moxie. For each point of Moxie the carrier consumes, gain Genesis DMG Dealt + 0.8% and DMG Taken - 0.8% , stacking up to 25 times. At the end of the round, if the carrier is in a channel status, the carrier gains Poison DMG Dealt + 4% , stacking up to 5 times, this effect lasts 3 rounds."
+  },
+  "On the Hand of Time": {
+    "img": "https://www.prydwen.gg/static/5e75506d3d905b9fe02b62dbefc3202c/f5a08/Flutterpage_Psychube.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks, if the carrier is in a channel status, the attack gains Penetration Rate + 14% . When the carrier performs an extra action, the carrier gains Critical DMG + 6% , stacking up to 3 times, with 1 stack removed at the end of each round. <br><br><strong>Lv. 5:</strong><br> When the carrier attacks, if the carrier is in a channel status, the attack gains Penetration Rate + 28% . When the carrier performs an extra action, the carrier gains Critical DMG + 12% , stacking up to 3 times, with 1 stack removed at the end of each round."
+  },
+  "One with the Flow": {
+    "img": "https://www.prydwen.gg/static/14e214f5f0cd76d2a390f07b98d2537b/f5a08/Mercuria_Psychube5.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier actively casts an incantation, if the carrier has a [Force Field] , there's a 24% chance to gain 1 Moxie. For 3 rounds after the carrier casts an ultimate, when an ally casts a rank 2/3 incantation, DMG Dealt +6%/8% for that ally. <br><br><strong>Lv. 5:</strong><br> After the carrier actively casts an incantation, if the carrier has a [Force Field] , there's a 48% chance to gain 1 Moxie. For 3 rounds after the carrier casts an ultimate, when an ally casts a rank 2/3 incantation, DMG Dealt +12%/16% for that ally."
+  },
+  "Outside the City": {
+    "img": "https://www.prydwen.gg/static/9f87a88038f96b71595549c8cc411812/f5a08/Equipment_icon-1521.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier launches a 1-target attack through an extra action, Critical DMG + 2% , up to 10 stacks. At 10 stacks, gain extra Critical Rate + 8% . <br><br><strong>Lv. 5:</strong><br> After the carrier launches a 1-target attack through an extra action, Critical DMG + 5% , up to 10 stacks. At 10 stacks, gain extra Critical Rate + 12% ."
+  },
+  "Parting's Quiet Lament 3.3": {
+    "img": "https://www.prydwen.gg/static/a2b42833bde84110456550b6b1d78727/f5a08/moldir_psy.webp",
+    "desc": "<strong>Lv. 1:</strong><br> If the carrier is of the [Plant] Afflatus, upon casting a Rank 3 Incantation, increase the Incantation Might of all allies by +6% for 3 rounds. If the carrier is of the [Beast] Afflatus, upon casting Ultimate, increase the Ultimate Might of all allies by +6% for 3 rounds. <br><br><strong>Lv. 5:</strong><br> If the carrier is of the [Plant] Afflatus, upon casting a Rank 3 Incantation, increase the Incantation Might of all allies by +12% for 3 rounds. If the carrier is of the [Beast] Afflatus, upon casting Ultimate, increase the Ultimate Might of all allies by +12% for 3 rounds."
+  },
+  "Ready on Call": {
+    "img": "https://www.prydwen.gg/static/ef048af641f7198ab94942ea63020149/f5a08/Ready_on_Call_icon.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When performing an extra action, if the carrier has actively casted a 1-target attack incantation this round, gain Critical Rate +1% , stacks up to 6 times. When performing an extra action, if the carrier has actively casted a 1-target buff incantation this round, gain Critical DMG +2% , stacks up to 6 times. When both of these effects have reached their maximum stacks, their stat bonuses are doubled. <br><br><strong>Lv. 5:</strong><br> When performing an extra action, if the carrier has actively casted a 1-target attack incantation this round, gain Critical Rate +2% , stacks up to 6 times. When performing an extra action, if the carrier has actively casted a 1-target buff incantation this round, gain Critical DMG +4% , stacks up to 6 times. When both of these effects have reached their maximum stacks, their stat bonuses are doubled."
+  },
+  "Rehearsal of Dreams": {
+    "img": "https://www.prydwen.gg/static/61bad808b95428aadd45114a9abc03dc/f5a08/Rehearsal_of_Dreams_icon.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is a [Plant] character, for every [Neg Status] effect inflicted when actively casting an incantation, gain Ultimate Might +1% , stacks up to 12 times. When the carrier casts an ultimate, for each type of [Stats Down], [Neg Status], or [Control] effect on the target, DMG Dealt +3% , up to 4 types can count toward this effect. <br><br><strong>Lv. 5:</strong><br> When the carrier is a [Plant] character, for every [Neg Status] effect inflicted when actively casting an incantation, gain Ultimate Might +2% , stacks up to 12 times. When the carrier casts an ultimate, for each type of [Stats Down], [Neg Status], or [Control] effect on the target, DMG Dealt +6% , up to 4 types can count toward this effect."
+  },
+  "Remaining Absurdity": {
+    "img": "https://www.prydwen.gg/static/d16ba49cd88479e124f89ddfd93f2cb5/5fbee/Equipment_icon-1414.png",
+    "desc": "<strong>Lv. 1:</strong><br> Whenever the Carrier makes a 1-target attack with a Shield active, Incantation Might + 10% . <br><br><strong>Lv. 5:</strong><br> Whenever the Carrier makes a 1-target attack with a Shield active, Incantation Might + 20% ."
+  },
+  "Same Old Story": {
+    "img": "https://www.prydwen.gg/static/cb547b2a7ce34e0467c0abc834f969d5/f5a08/Equipment_icon-1522.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is a [Beast] character, Penetration Rate +5%. When the carrier is in [Channel] status, DMG Dealt + 12% for their Mass Attacks. <br><br><strong>Lv. 5:</strong><br> When the carrier is a [Beast] character, Penetration Rate +5%. When the carrier is in [Channel] status, DMG Dealt + 28% for their Mass Attacks."
+  },
+  "Shadows in the Subconscious 3.2": {
+    "img": "https://www.prydwen.gg/static/91b94308a0ab034489f53b41cf8415e9/f5a08/Shadows_of_the_Subconscious.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks an enemy with [Burn] , DMG Bonus + 8% . At the start of the round, if [Lingering Glow] is no less than 120, all allies gain Critical DMG + 12% for 1 round. <br><br><strong>Lv. 5:</strong><br> When the carrier attacks an enemy with [Burn] , DMG Bonus + 16% . At the start of the round, if [Lingering Glow] is no less than 120, all allies gain Critical DMG + 24% for 1 round."
+  },
+  "Silent and Adoring": {
+    "img": "https://www.prydwen.gg/static/09e1a27e56951473566317e9b8c1ca35/5fbee/Equipment_icon-1513.png",
+    "desc": "<strong>Lv. 1:</strong><br> When the Carrier takes an extra action, Damage Dealt +12%. Genesis DMG through extra actions + 10% . <br><br><strong>Lv. 5:</strong><br> When the Carrier takes an extra action, Damage Dealt +12%. Genesis DMG through extra actions + 50% ."
+  },
+  "Silent Gaze": {
+    "img": "https://www.prydwen.gg/static/03c1c029576b5e211c1b39168482497f/f5a08/Silent_Gaze_mini.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When entering battle, the carrier gains DMG Taken -5%. At the start of each round, the carrier gains DMG Bonus +3%, stacking up to 4 times. <br><br><strong>Lv. 5:</strong><br> When entering battle, the carrier gains DMG Taken -5%. At the start of each round, the carrier gains DMG Bonus +3%, stacking up to 8 times."
+  },
+  "Singleness of Heart 3.3": {
+    "img": "https://www.prydwen.gg/static/4102f45ddac4b103aade7e408d2725e2/f5a08/marsha_psy.webp",
+    "desc": "<strong>Lv. 1:</strong><br> Whenever an ally is attacked, if the attacker has [Burn] , they deal -2% DMG Dealt. Upon casting Ultimate, if [Lingering Glow] exceeds 120 stacks, increase the Critical DMG of all allies by +12% for 3 rounds. <br><br><strong>Lv. 5:</strong><br> Whenever an ally is attacked, if the attacker has [Burn] , they deal -4% DMG Dealt. Upon casting Ultimate, if [Lingering Glow] exceeds 120 stacks, increase the Critical DMG of all allies by +24% for 3 rounds."
+  },
+  "Slighted": {
+    "img": "https://www.prydwen.gg/static/03c638bb8b1b376eb9e6612120868a78/f5a08/1201.webp",
+    "desc": "This Psychube doesn't grant any special effects to the wearer."
+  },
+  "Spinning Yarns": {
+    "img": "https://www.prydwen.gg/static/db6f92d4078ea3f16667f2f58b283d5c/f5a08/Equipment_icon-1432.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is a [Star] character, Ultimate Might +5%. When the carrier's ultimate is a mass attack and scores a critical hit on all targets, DMG Dealt +4% , stacks up to 3 times. <br><br><strong>Lv. 5:</strong><br> When the carrier is a [Star] character, Ultimate Might +5%. When the carrier's ultimate is a mass attack and scores a critical hit on all targets, DMG Dealt +12% , stacks up to 3 times."
+  },
+  "Starlight Wellspring": {
+    "img": "https://www.prydwen.gg/static/f2742b9028838f863950b420f0fbfe09/5fbee/Equipment_icon-1532.png",
+    "desc": "<strong>Lv. 1:</strong><br> If the carrier has both [Stats Up] and [Force Field] at the same time, gain Critical Rate +12% when attacking. If the carrier is of the Primal Afflatus, each time after a mass buff incantation is cast, gain Incantation Might + 2.5% and Ultimate Might + 2.5% , stackable up to 4 times. <br><br><strong>Lv. 5:</strong><br> If the carrier has both [Stats Up] and [Force Field] at the same time, gain Critical Rate +12% when attacking. If the carrier is of the Primal Afflatus, each time after a mass buff incantation is cast, gain Incantation Might + 4.5% and Ultimate Might +4.5% , stackable up to 4 times."
+  },
+  "Steps Forward": {
+    "img": "https://www.prydwen.gg/static/6f293e86d4fa772d59309c29031fecde/f5a08/47_icon.webp",
+    "desc": "<strong>Lv. 1:</strong><br> If the carrier's afflatus is [Intelligence] , Critical Rate is increased by 6%. If they hold 2 or more types of [Special] effects, Incantation Might is increased by 6% when attacking. In addition, if the carrier also has [Force Field] , Incantation Might is instead increased by 12% when attacking, and Critical Rate is increased by a further 3% when attacking. <br><br><strong>Lv. 5:</strong><br> If the carrier's afflatus is [Intelligence] , Critical Rate is increased by 6%. If they hold 2 or more types of [Special] effects, Incantation Might is increased by 18% when attacking. In addition, if the carrier also has [Force Field] , Incantation Might is instead increased by 24% when attacking, and Critical Rate is increased by a further 9% when attacking."
+  },
+  "Stray Off the Path": {
+    "img": "https://www.prydwen.gg/static/da2bdeef179bbc559bca0ce27c5fe480/f5a08/Equipment_icon-1534.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier actively casts a 1-target incantation, their next extra action within the round gains Incantation Might + 12% . After the carrier casts a 1-target incantation, the carrier gains Critical DMG + 6% (stacks up to 3 times, removed after casting a mass incantation). <br><br><strong>Lv. 5:</strong><br> After the carrier actively casts a 1-target incantation, their next extra action within the round gains Incantation Might + 24% . After the carrier casts a 1-target incantation, the carrier gains Critical DMG + 12% (stacks up to 3 times, removed after casting a mass incantation)."
+  },
+  "Substitutes and Simulacra": {
+    "img": "https://www.prydwen.gg/static/a3903b9966cce60b8f138831ba703084/f5a08/Equipment_icon-1442.webp",
+    "desc": "<strong>Lv. 1:</strong><br> The carrier gains Critical Rate +8% . After the carrier's attack triggers a Bullet effect, gains Critical DMG +16% for 2 rounds. <br><br><strong>Lv. 5:</strong><br> The carrier gains Critical Rate +16% . After the carrier's attack triggers a Bullet effect, gains Critical DMG +32% for 2 rounds."
+  },
+  "Take the Hard Journey": {
+    "img": "https://www.prydwen.gg/static/7bac6bac009f12a9a05b69e346c7c357/5fbee/Psychube_Take_the_Hard_Journey_small.png",
+    "desc": "<strong>Lv. 1:</strong><br> When the Carrier is below 40% HP , Healing Done increases by 12% <br><br><strong>Lv. 5:</strong><br> When the Carrier is below 80% HP , Healing Done increases by 12%"
+  },
+  "Tea Break": {
+    "img": "https://www.prydwen.gg/static/592905586e3c2742fd66bf5ffd22ef6b/f5a08/Equipment_icon-1422.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks an enemy in [Disarm] or [Silence] status, DMG Dealt + 14% . <br><br><strong>Lv. 5:</strong><br> When the carrier attacks an enemy in [Disarm] or [Silence] status, DMG Dealt + 28% ."
+  },
+  "That Inquisitive Dear": {
+    "img": "https://www.prydwen.gg/static/1eda88f30cad7218930d2776115375b3/f5a08/1508.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier casts a basic Incantation debuff, HP +(the carrierâs ATK x 24% ) for the ally with the lowest HP percentage (only triggers 1 time per round). <br><br><strong>Lv. 5:</strong><br> When the carrier casts a basic Incantation debuff, HP +(the carrierâs ATK x 48% ) for the ally with the lowest HP percentage (only triggers 1 time per round)."
+  },
+  "The Carat of a Heart": {
+    "img": "https://www.prydwen.gg/static/e61275dbac2273172f3710789afb31eb/5fbee/Equipment_icon-1512.png",
+    "desc": "<strong>Lv. 1:</strong><br> When the round ends, if the carrier gains at least 3 Moxie in the round, Ultimate Might + 8% when casting the next Ultimate. If the carrier gained at least 4 Moxie in the round, this effect is increased to + 12% . <br><br><strong>Lv. 5:</strong><br> When the round ends, if the carrier gains at least 3 Moxie in the round, Ultimate Might + 16% when casting the next Ultimate. If the carrier gained at least 4 Moxie in the round, this effect is increased to + 24% ."
+  },
+  "The Fighter's Best Wishes": {
+    "img": "https://www.prydwen.gg/static/6169dca33952d29a48732a0fe1352ad0/f5a08/48_icon.webp",
+    "desc": "<strong>Lv. 1:</strong><br> At the start of the round, if the carrier's current HP is below 60% , they get DMG Taken -10%; when the carrier attacks, they get Genesis DMG Dealt + 7% . <br><br><strong>Lv. 5:</strong><br> At the start of the round, if the carrier's current HP is below 80% , they get DMG Taken -10%; when the carrier attacks, they get Genesis DMG Dealt + 15% ."
+  },
+  "The Final Roll": {
+    "img": "https://www.prydwen.gg/static/0e292c7ce47b5a7fec2a9ca71a0018ac/f5a08/Recoleta_Psychube.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks, for each point of Moxie held, the attack gains Ultimate Might +1.2% . If the carrier is of the [Mineral] afflatus, for each point of Moxie consumed, gain Critical DMG +1% , stacks up to 16 times. <br><br><strong>Lv. 5:</strong><br> When the carrier attacks, for each point of Moxie held, the attack gains Ultimate Might +2.4% . If the carrier is of the [Mineral] afflatus, for each point of Moxie consumed, gain Critical DMG +2% , stacks up to 16 times."
+  },
+  "The Fluttering Moment 3.5 NEW!": {
+    "img": "https://www.prydwen.gg/static/680e67363c023a82dcad6607b5f4a649/f5a08/Chube_LorentzSig.webp",
+    "desc": "<strong>Lv. 1:</strong><br> At the end of the round, if there are at least 120 [Lingering Glow] stacks, grant +6% Crit DMG to all allies for 2 rounds.Â Whenever an ally attacks, if that Incantation is rewritten (e.g. affected by [Fractal Dimension] ), grant +2% DMG Dealt to all allies for 3 rounds (max 3 stacks). <br><br><strong>Lv. 5:</strong><br> At the end of the round, if there are at least 120 [Lingering Glow] stacks, grant +12% Crit DMG to all allies for 2 rounds.Â Whenever an ally attacks, if that Incantation is rewritten (e.g. affected by [Fractal Dimension] ), grant +4% DMG Dealt to all allies for 3 rounds (max 3 stacks)."
+  },
+  "The Footloose": {
+    "img": "https://www.prydwen.gg/static/a8058715af11f98c2663ae314219bdd1/f5a08/1404.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks, if the targetâs HP is above 50%, DMG Dealt + 8% . <br><br><strong>Lv. 5:</strong><br> When the carrier attacks, if the targetâs HP is above 50%, DMG Dealt + 16% ."
+  },
+  "The Severed and the Rest": {
+    "img": "https://www.prydwen.gg/static/f2d08580ebf488965b4855a252bcb9ed/5fbee/Psy_The_Severed_and_the_Rest_icon.png",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is an [Intelligence] character, Penetration Rate + 8% . When the carrier attacks an enemy that's in the [Paralyze] or [Daze] status, DMG Bonus + 4% , stacks up to 3 times. <br><br><strong>Lv. 5:</strong><br> When the carrier is an [Intelligence] character, Penetration Rate + 16% . When the carrier attacks an enemy that's in the [Paralyze] or [Daze] status, DMG Bonus + 8% , stacks up to 3 times."
+  },
+  "The Third Commitment": {
+    "img": "https://www.prydwen.gg/static/7ec76854f5034e0568dc10095d6e128e/5fbee/Psy_The_Third_Commitment_icon.png",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks and triggers a Bullet effect, the carrier gains Critical DMG + 16% for 2 rounds. The [Array] deployed by the carrier grants an additional Incantation Might + 6% and Ultimate Might + 6% to all allies; these effects are removed after the Array ends or is replaced. <br><br><strong>Lv. 5:</strong><br> When the carrier attacks and triggers a Bullet effect, the carrier gains Critical DMG + 32% for 2 rounds. The [Array] deployed by the carrier grants an additional Incantation Might + 12% and Ultimate Might + 12% to all allies; these effects are removed after the Array ends or is replaced."
+  },
+  "The Thousandfold Fate 3.2": {
+    "img": "https://www.prydwen.gg/static/70dd4d58b30d284c16e073f7192e2589/f5a08/The_Thousandfold_Fate.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks, if the carrier is an [Intelligence] character and [Lingering Glow] is no less than 120, gain Critical DMG + 4% , up to 6 times. When the carrier performs an Extra Action, if the carrier has [Force Field] , this attackâs Incantation Might increases by 6% . <br><br><strong>Lv. 5:</strong><br> When the carrier attacks, if the carrier is an [Intelligence] character and [Lingering Glow] is no less than 120, gain Critical DMG + 8% , up to 6 times. When the carrier performs an Extra Action, if the carrier has [Force Field] , this attackâs Incantation Might increases by 12% ."
+  },
+  "The Unbearable Lightness": {
+    "img": "https://www.prydwen.gg/static/e4338d0c6e76e9d4ee25c974d6cb6a3f/f5a08/50_small.webp",
+    "desc": "<strong>Lv. 1:</strong><br> If the carrier is in the [Burn] status, when attacking, gain Incantation Might +4% ; and after a mass riposte, gain ATK + 1% , stackable up to 6 times. <br><br><strong>Lv. 5:</strong><br> If the carrier is in the [Burn] status, when attacking, gain Incantation Might +12% ; and after a mass riposte, gain ATK + 2% , stackable up to 6 times."
+  },
+  "The Unknown Artist": {
+    "img": "https://www.prydwen.gg/static/c72a97726c64a6d0587db71655732cb2/f5a08/Equipment_icon-1433.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier is a [Plant] character, DMG Dealt +6%. When the carrier attacks an enemy that's in the [Nightmare] status, gain Penetration Rate +4% for self, stacks up to 3 times. <br><br><strong>Lv. 5:</strong><br> When the carrier is a [Plant] character, DMG Dealt +6%. When the carrier attacks an enemy that's in the [Nightmare] status, gain Penetration Rate +14% for self, stacks up to 3 times."
+  },
+  "The Wandering Improviser": {
+    "img": "https://www.prydwen.gg/static/164def881930113cc8fe0ee23031bf97/f5a08/Rub_Psychube.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When entering battle, if the carrier is a [Mineral] character, Healing Bonus + 12% . When an ally receives 1 instance of damage, grants Ultimate Might + 2% at the end of the round, up to 6 stacks. <br><br><strong>Lv. 5:</strong><br> When entering battle, if the carrier is a [Mineral] character, Healing Bonus + 24% . When an ally receives 1 instance of damage, grants Ultimate Might + 4% at the end of the round, up to 6 stacks."
+  },
+  "The Windâs Listener 3.4": {
+    "img": "https://www.prydwen.gg/static/256a14ee80e0e16e6fbe061771dfc6cd/5fbee/Getian_Anecdotechube.png",
+    "desc": "<strong>Lv. 1:</strong><br> If the user is of the [Beast] Afflatus, when setting an Array, it also increases all alliesâ Ultimate Might by +10% . This effect is removed when the Array ends or gets replaced. <br><br><strong>Lv. 5:</strong><br> If the user is of the [Beast] Afflatus, when setting an Array, it also increases all alliesâ Ultimate Might by +18% . This effect is removed when the Array ends or gets replaced."
+  },
+  "Thunderous Applause": {
+    "img": "https://www.prydwen.gg/static/e4badb5b60478eef842d158b689e021b/f5a08/1507.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrierâs 1-target attack scores a critical hit, Critical DMG + 16% . <br><br><strong>Lv. 5:</strong><br> When the carrierâs 1-target attack scores a critical hit, Critical DMG + 32% ."
+  },
+  "Tiny Wish": {
+    "img": "https://www.prydwen.gg/static/bc48d1c8e57c15eda095d7a23ea2db22/f5a08/Lorelei_Psychube.webp",
+    "desc": "<strong>Lv. 1:</strong><br> In battle, when an ally gets an increase in Stress, that Stress is transferred to the carrier instead. When the carrier triggers Focus or Meltdown for the first time, the carrier will trigger their Focused behavior as well, and all allies will gain ATK + 10% , DMG Taken - 6% , and Stress will no longer be transferred in this way. <br><br><strong>Lv. 5:</strong><br> In battle, when an ally gets an increase in Stress, that Stress is transferred to the carrier instead. When the carrier triggers Focus or Meltdown for the first time, the carrier will trigger their Focused behavior as well, and all allies will gain ATK + 20% , DMG Taken - 12% , and Stress will no longer be transferred in this way."
+  },
+  "Tomorrow Also": {
+    "img": "https://www.prydwen.gg/static/3637d8dfd4bbb638138fa060e86786bd/f5a08/1402.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier casts an Ultimate, Critical Rate +10% . <br><br><strong>Lv. 5:</strong><br> When the carrier casts an Ultimate, Critical Rate + 20% ."
+  },
+  "Transcendent Love": {
+    "img": "https://www.prydwen.gg/static/72879412ccd0b19db0ec9337a1dc7bd1/5fbee/Psy_Transcendent_Love_icon.png",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier casts an incantation in the Channel status, the carrier gains Critical Rate + 2% and Critical DMG + 2% , stacks up to 4 times. When the carrier is bound to another ally, each time the carrier or the bound ally casts an incantation, both bound characters gain DMG Bonus + 0.8% , stacks up to 10 times. <br><br><strong>Lv. 5:</strong><br> When the carrier casts an incantation in the Channel status, the carrier gains Critical Rate + 4% and Critical DMG + 4% , stacks up to 4 times. When the carrier is bound to another ally, each time the carrier or the bound ally casts an incantation, both bound characters gain DMG Bonus + 1.6% , stacks up to 10 times."
+  },
+  "Venomous": {
+    "img": "https://www.prydwen.gg/static/88856e419939136ec24486fe833dd4ab/f5a08/1309.webp",
+    "desc": "This Psychube doesn't grant any special effects to the wearer."
+  },
+  "Wayfarer of the Tao 3.4": {
+    "img": "https://www.prydwen.gg/static/28f46c74d8466b34a6c8beabc9fb41cf/5fbee/Paper_Sigchube.png",
+    "desc": "<strong>Lv. 1:</strong><br> For every [Eureka] an ally consumes, all allies gain +0.2% DMG Dealt (stacks up to 30 times). If the user is of the [Plant] Afflatus, when setting an Array, it also increases all alliesâ Incantation Might by +6% . This effect is removed when the Array ends or gets replaced. <br><br><strong>Lv. 5:</strong><br> For every [Eureka] an ally consumes, all allies gain +0.4% DMG Dealt (stacks up to 30 times). If the user is of the [Plant] Afflatus, when setting an Array, it also increases all alliesâ Incantation Might by +12% . This effect is removed when the Array ends or gets replaced."
+  },
+  "Yearning Desire": {
+    "img": "https://www.prydwen.gg/static/bf820c93690b14e0e34f58985617da50/f5a08/1401.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When the carrier attacks, if the target has [Stats Down] or [Neg Status] , DMG Dealt + 8% . <br><br><strong>Lv. 5:</strong><br> When the carrier attacks, if the target has [Stats Down] or [Neg Status] , DMG Dealt + 16% ."
+  },
+  "You Deserve It": {
+    "img": "https://www.prydwen.gg/static/bdadf495160112f1d3026d5f6a22932d/f5a08/Equipment_icon-1431.webp",
+    "desc": "<strong>Lv. 1:</strong><br> After the carrier casts a mass heal incantation, gain Incantation Might +1% and Ultimate Might +1% , stackable up to 5 times. <br><br><strong>Lv. 5:</strong><br> After the carrier casts a mass heal incantation, gain Incantation Might +3% and Ultimate Might +3% , stackable up to 5 times."
+  },
+  "Your Friendly Exorcist": {
+    "img": "https://www.prydwen.gg/static/730371a29ca85094e263fe917d435661/f5a08/Your_Friendly_Exorcist_icon.webp",
+    "desc": "<strong>Lv. 1:</strong><br> When entering battle, for each character present with the [Plant] afflatus, including the carrier, all allied characters of the [Plant] afflatus gain DMG Dealt + 2% , stacking up to 4 times. <br><br><strong>Lv. 5:</strong><br> When entering battle, for each character present with the [Plant] afflatus, including the carrier, all allied characters of the [Plant] afflatus gain DMG Dealt + 4% , stacking up to 4 times."
+  }
+}

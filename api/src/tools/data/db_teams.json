@@ -1,0 +1,559 @@
+[
+  {
+    "tier": "S+",
+    "nombre": "I'm In Me Mum's Car Brume Brume",
+    "core": [
+      {
+        "name": "Fatutu",
+        "img": "https://www.prydwen.gg/static/28bf82d180528063b4fd11cc21a5e5ca/60b4d/Fatutu_Icon.webp"
+      },
+      {
+        "name": "Charon",
+        "img": "https://www.prydwen.gg/static/07fbeecc77561a6f58d0227c118a6e48/60b4d/Charon_Icon.webp"
+      },
+      {
+        "name": "Anjo Nala",
+        "img": "https://www.prydwen.gg/static/ce9692c77be7544ca8b75aad0a59f55f/60b4d/Nala_icon.webp"
+      },
+      {
+        "name": "Brume",
+        "img": "https://www.prydwen.gg/static/3db4d29cd7f0d7341a8f1c17b046886f/60b4d/Brume_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Marsha",
+        "img": "https://www.prydwen.gg/static/a0d8f5bd29cf653d7c1b528bd7e8e4bb/60b4d/Marsha_icon.webp",
+        "replaces": "Fatutu"
+      },
+      {
+        "name": "Ulrich",
+        "img": "https://www.prydwen.gg/static/714053af42aa899fdb9b25bacc3d939a/60b4d/Ulrich_Icon.webp",
+        "replaces": "Anjo Nala"
+      }
+    ]
+  },
+  {
+    "tier": "S+",
+    "nombre": "Liang Yue - Freestyle Nuo Dance Teacher",
+    "core": [
+      {
+        "name": "Liang Yue",
+        "img": "https://www.prydwen.gg/static/0ab24706ddffad822e670c71ff829bfe/60b4d/LY_Icon.webp"
+      },
+      {
+        "name": "Flutterpage",
+        "img": "https://www.prydwen.gg/static/cf40aa443f753ca2d4faf0e6a6920df3/60b4d/Flutterpage_icon.webp"
+      },
+      {
+        "name": "Cheng Heguang",
+        "img": "https://www.prydwen.gg/static/72f69997f5d76d1bcb80fe3f233582ed/60b4d/Cheng_icon.webp"
+      },
+      {
+        "name": "Marsha",
+        "img": "https://www.prydwen.gg/static/a0d8f5bd29cf653d7c1b528bd7e8e4bb/60b4d/Marsha_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Lopera",
+        "img": "https://www.prydwen.gg/static/0193d3bd6bc69204751c2134711cc126/60b4d/Lopera_icon.webp",
+        "replaces": "Cheng Heguang"
+      }
+    ]
+  },
+  {
+    "tier": "S+",
+    "nombre": "Vegan Impromptu (Plant)",
+    "core": [
+      {
+        "name": "Paper Heron",
+        "img": "https://www.prydwen.gg/static/0a63cfe8f18f6a6209e71f2c3b8cd9b0/60b4d/paper_icon.webp"
+      },
+      {
+        "name": "Mercuria",
+        "img": "https://www.prydwen.gg/static/340cbf0fe9551382b935d0d6dec14bed/60b4d/85_icon.webp"
+      },
+      {
+        "name": "Tooth Fairy",
+        "img": "https://www.prydwen.gg/static/dffcad8d709f386addef5085f913fa0e/e9a79/56_icon.png"
+      },
+      {
+        "name": "Kiperina",
+        "img": "https://www.prydwen.gg/static/2a3ac9ace2de32b44541161ae59f0ce0/60b4d/Kiperina_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "An An Lee",
+        "img": "https://www.prydwen.gg/static/0b86bc3c4710ab7fb76f3c30adfd1283/e9a79/0_icon.png",
+        "replaces": "Mercuria"
+      }
+    ]
+  },
+  {
+    "tier": "S+",
+    "nombre": "You're All Going To Hell, Goodbye! (Glow)",
+    "core": [
+      {
+        "name": "Beryl",
+        "img": "https://www.prydwen.gg/static/c20150a8248b245206ff99be67bc884e/60b4d/Beryl_icon.webp"
+      },
+      {
+        "name": "Isolde",
+        "img": "https://www.prydwen.gg/static/5639fdcc8996f07682eef4ea636903f1/60b4d/73_icon.webp"
+      },
+      {
+        "name": "Lorentz Butterfly",
+        "img": "https://www.prydwen.gg/static/540fbe419febeb45d63403ff733ab580/60b4d/Lorentz_icon.webp"
+      },
+      {
+        "name": "Marsha",
+        "img": "https://www.prydwen.gg/static/a0d8f5bd29cf653d7c1b528bd7e8e4bb/60b4d/Marsha_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Spathodea",
+        "img": "https://www.prydwen.gg/static/dbceab4cd300e4d053571a25c9ace92b/e9a79/65_icon.png",
+        "replaces": "Beryl"
+      },
+      {
+        "name": "Flutterpage",
+        "img": "https://www.prydwen.gg/static/cf40aa443f753ca2d4faf0e6a6920df3/60b4d/Flutterpage_icon.webp",
+        "replaces": "Lorentz Butterfly"
+      }
+    ]
+  },
+  {
+    "tier": "S",
+    "nombre": "Add Two Shots Of Vodka (Dynamo, Raid)",
+    "core": [
+      {
+        "name": "Corvus",
+        "img": "https://www.prydwen.gg/static/2e13c8296c85602b6c0c42e768cb6bd4/60b4d/Cor_icon.webp"
+      },
+      {
+        "name": "Flutterpage",
+        "img": "https://www.prydwen.gg/static/cf40aa443f753ca2d4faf0e6a6920df3/60b4d/Flutterpage_icon.webp"
+      },
+      {
+        "name": "Charon",
+        "img": "https://www.prydwen.gg/static/07fbeecc77561a6f58d0227c118a6e48/60b4d/Charon_Icon.webp"
+      },
+      {
+        "name": "Kiperina",
+        "img": "https://www.prydwen.gg/static/2a3ac9ace2de32b44541161ae59f0ce0/60b4d/Kiperina_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Brume",
+        "img": "https://www.prydwen.gg/static/3db4d29cd7f0d7341a8f1c17b046886f/60b4d/Brume_icon.webp",
+        "replaces": "Flutterpage"
+      }
+    ]
+  },
+  {
+    "tier": "S",
+    "nombre": "And They Were Roommates (Dynamo)",
+    "core": [
+      {
+        "name": "Lucy",
+        "img": "https://www.prydwen.gg/static/9104fb66124b0626c2ebdf0cdbd65b5b/60b4d/79_icon.webp"
+      },
+      {
+        "name": "Ulrich",
+        "img": "https://www.prydwen.gg/static/714053af42aa899fdb9b25bacc3d939a/60b4d/Ulrich_Icon.webp"
+      },
+      {
+        "name": "Charon",
+        "img": "https://www.prydwen.gg/static/07fbeecc77561a6f58d0227c118a6e48/60b4d/Charon_Icon.webp"
+      },
+      {
+        "name": "Marsha",
+        "img": "https://www.prydwen.gg/static/a0d8f5bd29cf653d7c1b528bd7e8e4bb/60b4d/Marsha_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Brume",
+        "img": "https://www.prydwen.gg/static/3db4d29cd7f0d7341a8f1c17b046886f/60b4d/Brume_icon.webp",
+        "replaces": "Lucy"
+      }
+    ]
+  },
+  {
+    "tier": "S",
+    "nombre": "Art of Himejoshing Out (Bloodtithe)",
+    "core": [
+      {
+        "name": "Nautika",
+        "img": "https://www.prydwen.gg/static/0185c50c8b4b2f9679723e87d9a8c57e/60b4d/Nautika_Icon.webp"
+      },
+      {
+        "name": "Sentinel",
+        "img": "https://www.prydwen.gg/static/2bbc1ff8395dece8d7ad1d74a3949e28/60b4d/Sentinel_Icon.webp"
+      },
+      {
+        "name": "Semmelweis",
+        "img": "https://www.prydwen.gg/static/b454aa22a07355271774b1c82ffa525c/60b4d/80_icon.webp"
+      },
+      {
+        "name": "Rubuska",
+        "img": "https://www.prydwen.gg/static/3b63a0f83c9b58d4a3a9ecb0f873f955/60b4d/Rub_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Flutterpage",
+        "img": "https://www.prydwen.gg/static/cf40aa443f753ca2d4faf0e6a6920df3/60b4d/Flutterpage_icon.webp",
+        "replaces": "Sentinel"
+      }
+    ]
+  },
+  {
+    "tier": "S",
+    "nombre": "Daddy? Do I LOOK- (Ultimate)",
+    "core": [
+      {
+        "name": "Igor",
+        "img": "https://www.prydwen.gg/static/1b229d5f26092a51ac12cb6d24ffea8f/60b4d/Igor_icon.webp"
+      },
+      {
+        "name": "Lopera",
+        "img": "https://www.prydwen.gg/static/0193d3bd6bc69204751c2134711cc126/60b4d/Lopera_icon.webp"
+      },
+      {
+        "name": "Moldir",
+        "img": "https://www.prydwen.gg/static/a06c02f5a2163b62c0c2ea26e90d9e3f/60b4d/Moldir_Icon.webp"
+      },
+      {
+        "name": "Fatutu",
+        "img": "https://www.prydwen.gg/static/28bf82d180528063b4fd11cc21a5e5ca/60b4d/Fatutu_Icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Getian",
+        "img": "https://www.prydwen.gg/static/4fd6e47c66ab749e705fe949870212bc/60b4d/72_icon.webp",
+        "replaces": "Lopera"
+      },
+      {
+        "name": "Flutterpage",
+        "img": "https://www.prydwen.gg/static/cf40aa443f753ca2d4faf0e6a6920df3/60b4d/Flutterpage_icon.webp",
+        "replaces": "Moldir"
+      },
+      {
+        "name": "Marsha",
+        "img": "https://www.prydwen.gg/static/a0d8f5bd29cf653d7c1b528bd7e8e4bb/60b4d/Marsha_icon.webp",
+        "replaces": "Fatutu"
+      }
+    ]
+  },
+  {
+    "tier": "S",
+    "nombre": "Flute Solo Impromptu (Star)",
+    "core": [
+      {
+        "name": "Barcarola",
+        "img": "https://www.prydwen.gg/static/38a45752827c479d505f118abbcd5f64/60b4d/Barcarola_Icon.webp"
+      },
+      {
+        "name": "Aleph",
+        "img": "https://www.prydwen.gg/static/ef135e8d51482ff6edef268ed4f0cc70/60b4d/Aleph_Icon.webp"
+      },
+      {
+        "name": "Regulus",
+        "img": "https://www.prydwen.gg/static/7837f8320689ec0c511ca55ac3f48fbf/e9a79/3_icon.png"
+      },
+      {
+        "name": "Kiperina",
+        "img": "https://www.prydwen.gg/static/2a3ac9ace2de32b44541161ae59f0ce0/60b4d/Kiperina_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Tooth Fairy",
+        "img": "https://www.prydwen.gg/static/dffcad8d709f386addef5085f913fa0e/e9a79/56_icon.png",
+        "replaces": "Regulus"
+      }
+    ]
+  },
+  {
+    "tier": "S",
+    "nombre": "Geneva Suggestions (Poison)",
+    "core": [
+      {
+        "name": "Willow",
+        "img": "https://www.prydwen.gg/static/b946995740146fee260fd229a86847d6/60b4d/Willow_icon.webp"
+      },
+      {
+        "name": "Ramona",
+        "img": "https://www.prydwen.gg/static/3ec7e08224e0d1bdc23fda461bc25d76/60b4d/Ramona_icon.webp"
+      },
+      {
+        "name": "Tuesday",
+        "img": "https://www.prydwen.gg/static/ef9e126b1a336fbebea6b4d725e2f61b/60b4d/Tuesday_webicon.webp"
+      },
+      {
+        "name": "Vila",
+        "img": "https://www.prydwen.gg/static/05f3c6d16ff394d2162a812d4c9486e1/60b4d/76_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Marsha",
+        "img": "https://www.prydwen.gg/static/a0d8f5bd29cf653d7c1b528bd7e8e4bb/60b4d/Marsha_icon.webp",
+        "replaces": "Vila"
+      }
+    ]
+  },
+  {
+    "tier": "A+",
+    "nombre": "Benefit From Reading (Upgrade)",
+    "core": [
+      {
+        "name": "Marcus",
+        "img": "https://www.prydwen.gg/static/3b1ec3100f87df042fd6c3a7d48fbdd1/60b4d/74_icon.webp"
+      },
+      {
+        "name": "Mercuria",
+        "img": "https://www.prydwen.gg/static/340cbf0fe9551382b935d0d6dec14bed/60b4d/85_icon.webp"
+      },
+      {
+        "name": "Druvis Iii",
+        "img": "https://www.prydwen.gg/static/7f547edfa0dedca42f1041d22dab7c11/e9a79/1_icon.png"
+      },
+      {
+        "name": "Vila",
+        "img": "https://www.prydwen.gg/static/05f3c6d16ff394d2162a812d4c9486e1/60b4d/76_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Argus",
+        "img": "https://www.prydwen.gg/static/f3f16adb0798dae64a3d6940431d83a5/60b4d/Argus_icon_W.webp",
+        "replaces": "Marcus"
+      },
+      {
+        "name": "Lorentz Butterfly",
+        "img": "https://www.prydwen.gg/static/540fbe419febeb45d63403ff733ab580/60b4d/Lorentz_icon.webp",
+        "replaces": "Druvis Iii"
+      },
+      {
+        "name": "Hissabeth",
+        "img": "https://www.prydwen.gg/static/893fc4b292ad411a2bf1508eae424c50/60b4d/Hiss_icon.webp",
+        "replaces": "Druvis Iii"
+      }
+    ]
+  },
+  {
+    "tier": "A+",
+    "nombre": "Drinking Game: Addio (Follow-Up)",
+    "core": [
+      {
+        "name": "Ezio Auditore",
+        "img": "https://www.prydwen.gg/static/7617cba9cfee9c7dde194b13cafa80db/60b4d/icon_ezio.webp"
+      },
+      {
+        "name": "Kassandra",
+        "img": "https://www.prydwen.gg/static/1f7c2d89a8b8152ca91f58b529cf3066/60b4d/icon_kass.webp"
+      },
+      {
+        "name": "Flutterpage",
+        "img": "https://www.prydwen.gg/static/cf40aa443f753ca2d4faf0e6a6920df3/60b4d/Flutterpage_icon.webp"
+      },
+      {
+        "name": "Fatutu",
+        "img": "https://www.prydwen.gg/static/28bf82d180528063b4fd11cc21a5e5ca/60b4d/Fatutu_Icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Mercuria",
+        "img": "https://www.prydwen.gg/static/340cbf0fe9551382b935d0d6dec14bed/60b4d/85_icon.webp",
+        "replaces": "Kassandra"
+      }
+    ]
+  },
+  {
+    "tier": "A+",
+    "nombre": "Give Me Your Damn Money (Ultimate)",
+    "core": [
+      {
+        "name": "Ezio Auditore",
+        "img": "https://www.prydwen.gg/static/7617cba9cfee9c7dde194b13cafa80db/60b4d/icon_ezio.webp"
+      },
+      {
+        "name": "Kassandra",
+        "img": "https://www.prydwen.gg/static/1f7c2d89a8b8152ca91f58b529cf3066/60b4d/icon_kass.webp"
+      },
+      {
+        "name": "Getian",
+        "img": "https://www.prydwen.gg/static/4fd6e47c66ab749e705fe949870212bc/60b4d/72_icon.webp"
+      },
+      {
+        "name": "Medicine Pocket",
+        "img": "https://www.prydwen.gg/static/6b774a81212617cf21c1c79d28e9d210/e9a79/8_icon.png"
+      }
+    ],
+    "flex": []
+  },
+  {
+    "tier": "A+",
+    "nombre": "I Thought You Were American (FUA)",
+    "core": [
+      {
+        "name": "Anjo Nala",
+        "img": "https://www.prydwen.gg/static/ce9692c77be7544ca8b75aad0a59f55f/60b4d/Nala_icon.webp"
+      },
+      {
+        "name": "Liang Yue",
+        "img": "https://www.prydwen.gg/static/0ab24706ddffad822e670c71ff829bfe/60b4d/LY_Icon.webp"
+      },
+      {
+        "name": "Flutterpage",
+        "img": "https://www.prydwen.gg/static/cf40aa443f753ca2d4faf0e6a6920df3/60b4d/Flutterpage_icon.webp"
+      },
+      {
+        "name": "Fatutu",
+        "img": "https://www.prydwen.gg/static/28bf82d180528063b4fd11cc21a5e5ca/60b4d/Fatutu_Icon.webp"
+      }
+    ],
+    "flex": []
+  },
+  {
+    "tier": "A",
+    "nombre": "Hi, Welcome To Chili's (FUA)",
+    "core": [
+      {
+        "name": "Windsong",
+        "img": "https://www.prydwen.gg/static/64c8284a93395dd8e2b1b166f6a5d0a3/60b4d/78_icon.webp"
+      },
+      {
+        "name": "Flutterpage",
+        "img": "https://www.prydwen.gg/static/cf40aa443f753ca2d4faf0e6a6920df3/60b4d/Flutterpage_icon.webp"
+      },
+      {
+        "name": "Lopera",
+        "img": "https://www.prydwen.gg/static/0193d3bd6bc69204751c2134711cc126/60b4d/Lopera_icon.webp"
+      },
+      {
+        "name": "Vila",
+        "img": "https://www.prydwen.gg/static/05f3c6d16ff394d2162a812d4c9486e1/60b4d/76_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Kakania",
+        "img": "https://www.prydwen.gg/static/d573ebe5b4ef8a527ad1cdd760dc24f7/60b4d/82_icon.webp",
+        "replaces": "Lopera"
+      }
+    ]
+  },
+  {
+    "tier": "A",
+    "nombre": "Look Its The Good Kush (Poison)",
+    "core": [
+      {
+        "name": "Ezio Auditore",
+        "img": "https://www.prydwen.gg/static/7617cba9cfee9c7dde194b13cafa80db/60b4d/icon_ezio.webp"
+      },
+      {
+        "name": "Tuesday",
+        "img": "https://www.prydwen.gg/static/ef9e126b1a336fbebea6b4d725e2f61b/60b4d/Tuesday_webicon.webp"
+      },
+      {
+        "name": "Flutterpage",
+        "img": "https://www.prydwen.gg/static/cf40aa443f753ca2d4faf0e6a6920df3/60b4d/Flutterpage_icon.webp"
+      },
+      {
+        "name": "Fatutu",
+        "img": "https://www.prydwen.gg/static/28bf82d180528063b4fd11cc21a5e5ca/60b4d/Fatutu_Icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Jessica",
+        "img": "https://www.prydwen.gg/static/d1016961dc8a59f5bc3a3d6d62ba841b/e9a79/58_icon.png",
+        "replaces": "Flutterpage"
+      }
+    ]
+  },
+  {
+    "tier": "A",
+    "nombre": "Washing Me And My Clothes (Ultimate)",
+    "core": [
+      {
+        "name": "Recoleta",
+        "img": "https://www.prydwen.gg/static/2fe2eee957a2e14e2b343784abdc6f6a/60b4d/Recoleta_icon.webp"
+      },
+      {
+        "name": "Melania",
+        "img": "https://www.prydwen.gg/static/4abbfd75d20606a1f0b2f2eb6ada77a2/e9a79/53_icon.png"
+      },
+      {
+        "name": "Moldir",
+        "img": "https://www.prydwen.gg/static/a06c02f5a2163b62c0c2ea26e90d9e3f/60b4d/Moldir_Icon.webp"
+      },
+      {
+        "name": "Rubuska",
+        "img": "https://www.prydwen.gg/static/3b63a0f83c9b58d4a3a9ecb0f873f955/60b4d/Rub_icon.webp"
+      }
+    ],
+    "flex": [
+      {
+        "name": "Getian",
+        "img": "https://www.prydwen.gg/static/4fd6e47c66ab749e705fe949870212bc/60b4d/72_icon.webp",
+        "replaces": "Moldir"
+      }
+    ]
+  },
+  {
+    "tier": "B",
+    "nombre": "When Life Gives You Lemons (Status)",
+    "core": [
+      {
+        "name": "Noire",
+        "img": "https://www.prydwen.gg/static/b8a8d03c85565066ef5fc2bb65bad4bf/60b4d/Noire_Icon.webp"
+      },
+      {
+        "name": "6",
+        "img": "https://www.prydwen.gg/static/c3b16c3397767b4737aa9bb4ff4ffafc/e9a79/65_icon.png"
+      },
+      {
+        "name": "Melania",
+        "img": "https://www.prydwen.gg/static/4abbfd75d20606a1f0b2f2eb6ada77a2/e9a79/53_icon.png"
+      },
+      {
+        "name": "Vila",
+        "img": "https://www.prydwen.gg/static/05f3c6d16ff394d2162a812d4c9486e1/60b4d/76_icon.webp"
+      }
+    ],
+    "flex": []
+  },
+  {
+    "tier": "B",
+    "nombre": "You Have Been Stopped (Petrify)",
+    "core": [
+      {
+        "name": "Hissabeth",
+        "img": "https://www.prydwen.gg/static/893fc4b292ad411a2bf1508eae424c50/60b4d/Hiss_icon.webp"
+      },
+      {
+        "name": "Jessica",
+        "img": "https://www.prydwen.gg/static/d1016961dc8a59f5bc3a3d6d62ba841b/e9a79/58_icon.png"
+      },
+      {
+        "name": "Druvis Iii",
+        "img": "https://www.prydwen.gg/static/7f547edfa0dedca42f1041d22dab7c11/e9a79/1_icon.png"
+      },
+      {
+        "name": "Vila",
+        "img": "https://www.prydwen.gg/static/05f3c6d16ff394d2162a812d4c9486e1/60b4d/76_icon.webp"
+      }
+    ],
+    "flex": []
+  }
+]
