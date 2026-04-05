@@ -117,4 +117,100 @@ export const reverse1999Tools: AgentTool[] = [
       return { name, ...psychube };
     },
   },
+  {
+    id: 'filter_characters',
+    niches: ['generic'],
+    icon: '🔍',
+    displayName: 'Filter Characters',
+    declaration: {
+      name: 'filterCharacters',
+      description:
+        'Busca y filtra personajes por sus atributos: rareza, afflatus (elemento), tipo de daño, rol o categoría. Útil para encontrar personajes que cumplan criterios específicos y armar equipos con sinergias.',
+      parameters: {
+        type: SchemaType.OBJECT,
+        properties: {
+          afflatus: {
+            type: SchemaType.STRING,
+            description: "Elemento/Afflatus del personaje (ej. 'Plant', 'Beast', 'Star', 'Mineral', 'Spirit', 'Intellect').",
+          },
+          damageType: {
+            type: SchemaType.STRING,
+            description: "Tipo de daño: 'Reality' o 'Mental'.",
+          },
+          role: {
+            type: SchemaType.STRING,
+            description: "Rol del personaje (ej. 'DPS', 'Support', 'Heal', 'Control', 'Debuff', 'Shield', 'DEF').",
+          },
+          category: {
+            type: SchemaType.STRING,
+            description: "Categoría general (ej. 'Damage', 'Sub DPS', 'Support', 'Survival').",
+          },
+          rarity: {
+            type: SchemaType.NUMBER,
+            description: "Rareza del personaje (3, 4, 5 o 6).",
+          },
+          minTier: {
+            type: SchemaType.STRING,
+            description: "Tier mínimo para filtrar (ej. 'S' devuelve S, S+ y SS). Valores posibles: 'SS', 'S+', 'S', 'A+', 'A', 'B', 'C'.",
+          },
+        },
+      },
+    },
+    execute: async (args) => {
+      const characters = loadJSON('db_characters.json');
+      const tierOrder = ['SS', 'S+', 'S', 'A+', 'A', 'B', 'C'];
+
+      let filtered = characters;
+
+      if (args.afflatus) {
+        filtered = filtered.filter((c: any) =>
+          (c.afflatus || '').toLowerCase() === args.afflatus.toLowerCase(),
+        );
+      }
+      if (args.damageType) {
+        filtered = filtered.filter((c: any) =>
+          (c.damage_type || '').toLowerCase() === args.damageType.toLowerCase(),
+        );
+      }
+      if (args.role) {
+        filtered = filtered.filter((c: any) =>
+          (c.roles || []).some((r: string) => r.toLowerCase() === args.role.toLowerCase()),
+        );
+      }
+      if (args.category) {
+        filtered = filtered.filter((c: any) =>
+          (c.category || '').toLowerCase() === args.category.toLowerCase(),
+        );
+      }
+      if (args.rarity) {
+        filtered = filtered.filter((c: any) => c.rarity === args.rarity);
+      }
+      if (args.minTier) {
+        const minIndex = tierOrder.indexOf(args.minTier);
+        if (minIndex !== -1) {
+          filtered = filtered.filter((c: any) => {
+            const charIndex = tierOrder.indexOf(c.tier);
+            return charIndex !== -1 && charIndex <= minIndex;
+          });
+        }
+      }
+
+      if (filtered.length === 0) {
+        return { result: 'No characters found matching those filters.' };
+      }
+
+      return {
+        count: filtered.length,
+        characters: filtered.map((c: any) => ({
+          name: c.name,
+          tier: c.tier,
+          rarity: c.rarity,
+          afflatus: c.afflatus,
+          damage_type: c.damage_type,
+          roles: c.roles,
+          category: c.category,
+        })),
+      };
+    },
+  },
 ];

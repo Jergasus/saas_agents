@@ -50,7 +50,7 @@ export class ChatService {
     let systemInstruction = tenant.systemPrompt || '';
     if (activeTools.length > 0) {
       const toolNames = activeTools.map(t => t.name).join(', ');
-      systemInstruction += `\n\nIMPORTANT: You have access to these tools: ${toolNames}. ALWAYS use them to answer questions about game data instead of relying on your own knowledge. If the user's question could be answered by multiple tools, call ALL relevant tools. For example, if asked for a full build, use getCharacterInfo AND findTeamsForCharacter AND getPsychubeDetails.`;
+      systemInstruction += `\n\nIMPORTANT: You have access to these tools: ${toolNames}. ALWAYS use them to answer questions about game data instead of relying on your own knowledge. If the user's question could be answered by multiple tools, call ALL relevant tools. For example, if asked for a full build, use getCharacterInfo AND findTeamsForCharacter AND getPsychubeDetails. Use filterCharacters to find characters by afflatus, damage type, role, category, rarity or tier — this is essential for building new teams or finding synergies.`;
     }
 
     const model = this.genAI.getGenerativeModel({
